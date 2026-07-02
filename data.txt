@@ -1,1 +1,1 @@
-[{"name": "کانال اول", "chat_id": "https://t.me/terendinstamusic", "link": "https://t.me/terendinstamusic"}]
+[]
