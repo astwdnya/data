@@ -1,1 +1,1 @@
-[{"name": "کانال اول", "chat_id": "https://t.me/terendinstamusic", "link": "https://t.me/terendinstamusic"}, {"name": "کانال دوم", "chat_id": "https://t.me/+SfdHg69pWdYzZmQ0", "link": "https://t.me/+SfdHg69pWdYzZmQ0"}]
+[{"name": "کانال اول", "chat_id": "https://t.me/terendinstamusic", "link": "https://t.me/terendinstamusic"}]
