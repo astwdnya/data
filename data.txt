@@ -1,1 +1,1 @@
-[{"name": "کانال 2", "link": "https://t.me/+SfdHg69pWdYzZmQ0", "chat_id": "https://t.me/+SfdHg69pWdYzZmQ0", "invite_hash": "SfdHg69pWdYzZmQ0"}]
+[]
